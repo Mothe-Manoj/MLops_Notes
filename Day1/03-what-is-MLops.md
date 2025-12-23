@@ -68,4 +68,7 @@ MLOps takes proven DevOps ideas and applies them to ML systems.
 | Rollbacks | Model version rollback |
 | Automation | End-to-end ML lifecycle automation |
 
+Example:
+
+<img width="808" height="555" alt="Screenshot 2025-12-23 at 12 34 13 PM" src="https://github.com/user-attachments/assets/90ae616d-bd05-4b99-85c5-747164e00185" />
 
