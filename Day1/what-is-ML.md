@@ -69,4 +69,6 @@ Output: Species = Versicolor
 The model is simply applying what it learned earlier.
 
 
+<img width="921" height="640" alt="Screenshot 2025-12-23 at 12 00 24 PM" src="https://github.com/user-attachments/assets/2729fbf3-9b49-4ced-afce-927a9b660e7f" />
+
 
