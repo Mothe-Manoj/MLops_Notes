@@ -3,7 +3,7 @@
 Now that you know what machine learning is and what a model is, the next step is understanding how data scientists actually build one.
 Think of this as the “hello world” of ML.
 
-##8 Steps:
+###8 Steps:
 1. Dataset - features of the flowers
 2. Split - Split into 80 - 20 percentage
 3. Alogrithm - choose the Algo
